@@ -1,3 +1,3 @@
 #Kokoa Clone
 
-For upgrading HTML and CSS skills
+HTML and CSS are so much fun!
