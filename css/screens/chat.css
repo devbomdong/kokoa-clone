@@ -173,11 +173,8 @@
   visibility: hidden;
 }
 
-.replt input:focus {
-  width: 93vw;
-  transform: translateX(-13%) translateY(-80px);
-}
 
-.reply:focus-within {
-  transform: translateY(-80px);
+.reply:focus-within input {
+  width:98VW
+  transform: translateX(-13px);
 }
